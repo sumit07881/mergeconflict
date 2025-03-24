@@ -1,1 +1,2 @@
 file 5 is used to make merge conflict
+file 4 is used to make merge conflict
